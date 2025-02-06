@@ -32,7 +32,7 @@ The goal is to analyse key performance indicators (KPIs) and visualise trends in
 
     **Peak Days:** Leverage a 20–30% increase in orders during weekends by launching targeted promotions.
 
-    **Popular Categories:** Capitalise on the strong performance of the 'Classic' category and large-sized pizzas that contribute 35–40% of revenue to boost engagement and sales.
+    **Popular Categories:** Capitalise on the strong performance of the 'Classic' category and large-sized pizzas that contribute to larger % of revenue to boost engagement and sales.
 
 -  **Operational Optimisation:**
 
